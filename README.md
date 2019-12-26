@@ -1,7 +1,3 @@
-# Comparing programming language syntaxes
-
-
-
 <table>
 <tr>
 <th>Swift</th>
