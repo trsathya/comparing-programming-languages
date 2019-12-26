@@ -13,8 +13,10 @@
 
 <td>
 <pre lang="swift">
+<code>
 print("Hello, world!")
 // Prints "Hello, world!"
+</code>
 </pre>
 </td>
 
