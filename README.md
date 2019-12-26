@@ -9,24 +9,24 @@
 
 <td>
   
-```swift
-print("Hello, world!")
-// Prints "Hello, world!"
-```
+  ```swift
+  print("Hello, world!")
+  // Prints "Hello, world!"
+  ```
 
 </td>
 
 <td>
   
-```objective-c
-NSLog(@"Hello world!");
-// Prints "Hello, world!"
-```
+  ```objective-c
+  NSLog(@"Hello world!");
+  // Prints "Hello, world!"
+  ```
 
 </td>
 
 <td>
-  
+
   ```golang
   fmt.Println("Hello world!")
   // Prints "Hello, world!"
